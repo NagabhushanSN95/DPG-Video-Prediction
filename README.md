@@ -36,7 +36,7 @@ If you use this in your work, please cite this github repository as well as the 
     author = {Somraj, Nagabhushan},
     year = {2022},
     publisher = {GitHub},
-    url = {https://github.com/NagabhushanSN95/Pose-Warping}
+    url = {https://github.com/NagabhushanSN95/DPG-Video-Prediction}
 }
 ```
 
