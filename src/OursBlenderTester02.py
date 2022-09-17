@@ -301,9 +301,3 @@ if __name__ == '__main__':
     end_time = time.time()
     print('Program ended at ' + datetime.datetime.now().strftime('%d/%m/%Y %I:%M:%S %p'))
     print('Execution time: ' + str(datetime.timedelta(seconds=end_time - start_time)))
-
-    from snb_utils import Mailer
-
-    subject = f'VPL008/{this_filename}'
-    mail_content = f'Program ended.\n' + run_result
-    Mailer.send_mail(subject, mail_content)
