@@ -1,0 +1,8 @@
+.idea/
+Data/
+PretrainedModels/
+Runs/Training*/Train*/LossPlots/
+Runs/Training*/Train*/Samples/
+Runs/Training*/Train*/SavedModels/
+Runs/Testing/**/*.png
+Runs/Testing/**/*.npz
